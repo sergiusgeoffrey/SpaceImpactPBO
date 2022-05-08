@@ -1,0 +1,71 @@
+﻿  SpaceImpact.cpp
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(73,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(77,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(95,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(95,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(96,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(96,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(107,30): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(112,45): warning C4244: '=': conversion from 'ULONGLONG' to 'float', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(117,30): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(125,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(125,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(141,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(141,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(142,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(142,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(154,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(154,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(155,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(155,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(168,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(168,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(169,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(169,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(175,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(175,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(176,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(176,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(205,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(205,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(206,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(206,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(228,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(228,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(229,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(229,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(245,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(247,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(248,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(249,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(262,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(281,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(281,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(295,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(297,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(298,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(299,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(317,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(359,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(359,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(375,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(377,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(378,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(379,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(400,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(427,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(427,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(445,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(447,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(448,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(449,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(472,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(507,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(507,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(587,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(590,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(645,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(647,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(836,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\PrakPBO13_Polymorph_PR\SpaceImpact.cpp(921,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PrakPBO13_Polymorph_PR.vcxproj -> C:\Users\Asus\source\repos\PrakPBO13_Polymorph_PR\Debug\PrakPBO13_Polymorph_PR.exe
